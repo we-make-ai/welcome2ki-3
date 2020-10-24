@@ -1,0 +1,6 @@
+name: binder
+channels:
+  - conda-forge
+dependencies:
+  - fastai
+  - voila
