@@ -1,5 +1,5 @@
 # welcome2ki-3
-Diese Repository entält alle im Kurs ["Welcome to KI 3"]() auf Udemy präsentierten Jupyter Notebooks.
+Diese Repository enthält alle im Kurs ["Welcome to KI 3"]() auf Udemy präsentierten Jupyter Notebooks.
 
 Wir erstellen den ersten voll funktionsfähigen Klassifizierer mit dem fastai Framework und analysieren die Funktionsweise von der Basis.
 
