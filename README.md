@@ -1,7 +1,7 @@
 # welcome2ki-3
 Diese Repository enthält alle im Kurs ["Welcome to KI 3"]() auf Udemy präsentierten Jupyter Notebooks.
 
-Wir erstellen den ersten voll funktionsfähigen Klassifizierer mit dem fastai Framework und analysieren die Funktionsweise von der Basis.
+Wir erstellen den state-of-the-art Bild-Klassifizierer mit dem fastai Framework mit nur 8 Zeilen Code. Danach arbeiten wir uns schrittweise von oben hinunter an die Basis und lernen, was hinter den Funktionen von fastai und PyTorch steckt.
 
 Der Code stammt aus der offiziellen Dokumentation zu ["fastai"](http://www.fast.ai).
 
