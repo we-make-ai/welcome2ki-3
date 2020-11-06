@@ -11,4 +11,6 @@ Für alle interessierten empfehlen wir auch das offizielle Buch vom Urheber von 
 
 Wer gerne mehr über die wirtschaftliche Anwendung von künstlicher Intelligenz erfahren möchte, dem empfehlen wir unser Buch [Die KI-Revolution im Management.: Warum Unternehmen ohne künstliche Intelligenz keine Zukunft haben](https://amzn.to/2U1d8ri)
 
+<diV
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=weiteblog-21&language=de_DE&marketplace=amazon&region=DE&placement=B07RY2SXTM&asins=B07RY2SXTM&linkId=f145b22635446f9fbef3f124740044d4&show_border=true&link_opens_in_new_window=true"></iframe>
+</div>
